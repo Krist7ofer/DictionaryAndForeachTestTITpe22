@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryAndForeachTestTITpe22", "DictionaryAndForeachTestTITpe22.csproj", "{B753CBF8-0A78-425B-993B-A96031933450}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B753CBF8-0A78-425B-993B-A96031933450}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B753CBF8-0A78-425B-993B-A96031933450}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B753CBF8-0A78-425B-993B-A96031933450}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B753CBF8-0A78-425B-993B-A96031933450}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {445AD167-5107-45B8-982B-3E405FAF7290}
+	EndGlobalSection
+EndGlobal
